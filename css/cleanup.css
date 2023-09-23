@@ -1,1 +1,18 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+#wall #tag-2 {
+    z-index: 1;
+    display: flex;
+}
+#wall #tag-3 {
+    z-index: 7;
+    display: inline;   
+}
+#wall #tag-4 {
+    display: none;
+}
+.parent #tag-6 {
+    display: none;
+}
